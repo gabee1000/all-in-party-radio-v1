@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All in Party Radio</string>
+    <string name="settings_title">Settings</string>
+    <string name="stream_choose">Stream váltása</string>
+    <string name="choose_your_stream">Válassz másik streamet</string>
+    <string-array name="streams">
+        <item>All in Party Radio</item>
+        <item>All in Classic Radio</item>
+    </string-array>
+</resources>
